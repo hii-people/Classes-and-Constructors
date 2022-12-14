@@ -1,0 +1,11 @@
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes and Files.vbproj.AssemblyReference.cache
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes_and_Files.Resources.resources
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes and Files.vbproj.GenerateResource.cache
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes and Files.vbproj.CoreCompileInputs.cache
+H:\Documents\computer science\Lower Sixth\Classes and Files\bin\Debug\Classes and Files.exe.config
+H:\Documents\computer science\Lower Sixth\Classes and Files\bin\Debug\Classes and Files.exe
+H:\Documents\computer science\Lower Sixth\Classes and Files\bin\Debug\Classes and Files.pdb
+H:\Documents\computer science\Lower Sixth\Classes and Files\bin\Debug\Classes and Files.xml
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes and Files.exe
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes and Files.xml
+H:\Documents\computer science\Lower Sixth\Classes and Files\obj\Debug\Classes and Files.pdb
